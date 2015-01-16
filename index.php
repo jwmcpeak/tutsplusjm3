@@ -1,5 +1,5 @@
 <?php
 
-echo "Deployed with GitHub";
+echo "Edited and deployed with GitHub";
 
 ?>
