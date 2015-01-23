@@ -1,5 +1,5 @@
 <?php
 
-echo "Edited and deployed with GitHub";
+echo "This is our vnext website.";
 
 ?>
